@@ -16,7 +16,7 @@ I am dedicated to staying up-to-date with the latest trends and technologies in 
 As a freelance data analyst, I am driven by the belief that data holds the key to informed decision-making. My mission is to empower businesses with the insights they need to thrive in an increasingly data-driven world. If you're seeking a skilled and dedicated data analyst who can deliver tangible results and add value to your projects, I look forward to the opportunity to collaborate with you. Let's turn your data into a strategic asset and drive your business towards greater success.
 
 # Data Analysis Reports and Projects
-## [Project Soccer]([https://colab.research.google.com/drive/1CdzKOzrib7bewQkZhauVFg--eh0pReLQ#scrollTo=rmeUnY0tPXpL](https://github.com/afc523/Portfolio/blob/main/Project_Soccer.ipynb))
+## [Project Soccer](https://github.com/afc523/Portfolio/blob/main/Project_Soccer.ipynb)
 ### Analysis of Soccer Leagues and Teams
 >List
 - List 2
