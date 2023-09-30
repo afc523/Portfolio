@@ -17,9 +17,18 @@ As a freelance data analyst, I am driven by the belief that data holds the key t
 
 # Data Analysis Reports and Projects
 ## [Project Soccer](https://github.com/afc523/Portfolio/blob/main/Project_Soccer.ipynb)
-### Analysis of Soccer Leagues and Teams
->List
-- List 2
-* list of teachers
-* Tests
-![IMAGE](/Image.png)
+### A Multifaceted Data Analysis of Soccer Matches, Scores, and Teams Across Diverse Leagues
+
+In the world of sports, few games can rival soccer in terms of global popularity and passion. From the intensity of the UEFA Champions League to the charm of local leagues, the beautiful game captivates fans from every corner of the planet. Behind the spectacle lies a treasure trove of data that holds the stories of triumphs, heartbreaks, and the relentless pursuit of excellence. This narrative unfolds the captivating journey of data analysis within the intricate world of soccer matches, scores, and teams across a myriad of leagues.
+
+The Data Landscape:
+
+Our journey begins with the diverse landscape of soccer leagues. From the glitzy glamour of the English Premier League to the tightly contested battles in Serie A and the unexpected underdog victories in the MLS, every league carries its unique narrative. The data collected ranges from match outcomes, scores, and team statistics. This rich tapestry of information paints a vivid picture of the soccer universe.
+
+![Heat Map of Correlations](/Image.png)
+
+The Scores and Team Oerformance:
+
+Scores are the ultimate measure of success in soccer. Analyzing score trends across leagues unveils fascinating insights. Are some leagues more high-scoring than others? Do certain teams excel in high-pressure situations? Our analysis of scores not only reveals these answers but also highlights the team performance as we explore team performance metrics such as average goals per match and home-field advantage.
+
+As we conclude our journey through the fascinating world of soccer data analysis, we discover that soccer is not merely a game; it's a reflection of human diversity, strategy, and emotion. The numbers and statistics serve as our guide, revealing the secrets and stories hidden within the matches, scores, and teams. This narrative celebrates the enduring spirit of soccer, where data analysis helps us unravel its mysteries and appreciate the beauty of the beautiful game even more profoundly. Whether you are a die-hard fan or a curious observer, the data-driven insights into soccer's soul will forever enhance your appreciation for this global phenomenon.
