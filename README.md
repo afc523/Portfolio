@@ -1,2 +1,2 @@
-# Portfolio
-Data Analysis Reports
+# Projects
+Data Analysis Reports and Projects
