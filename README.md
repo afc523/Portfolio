@@ -33,7 +33,7 @@ Scores are the ultimate measure of success in soccer. Analyzing score trends acr
 
 As we conclude our journey through the fascinating world of soccer data analysis, we discover that soccer is not merely a game; it's a reflection of human diversity, strategy, and emotion. The numbers and statistics serve as our guide, revealing the secrets and stories hidden within the matches, scores, and teams. This narrative celebrates the enduring spirit of soccer, where data analysis helps us unravel its mysteries and appreciate the beauty of the beautiful game even more profoundly. Whether you are a die-hard fan or a curious observer, the data-driven insights into soccer's soul will forever enhance your appreciation for this global phenomenon.
 
-## [Analysis of Movie Data](www.google.com)
+## [Analysis of Movie Data](https://github.com/afc523/Portfolio/blob/main/Movies.ipynb)
 
 Our exploration begins with the vastness of the film industry. With thousands of movies released each year across various genres, languages, and platforms, cinema is a diverse and thriving ecosystem. We dive into data encompassing movie titles, release dates, genres, ratings, popularity, and vote counts. Through the lens of data analysis, we gain a newfound appreciation for the art and business of filmmaking. Whether you are a cinephile, a filmmaker, or an industry insider, our exploration of movie data offers a fresh perspective on the magic and mechanics behind the silver screen. It reaffirms that movies are not just a form of entertainment but a reflection of our shared stories, dreams, and aspirations.
 
