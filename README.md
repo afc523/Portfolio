@@ -38,3 +38,16 @@ As we conclude our journey through the fascinating world of soccer data analysis
 Our exploration begins with the vastness of the film industry. With thousands of movies released each year across various genres, languages, and platforms, cinema is a diverse and thriving ecosystem. We dive into data encompassing movie titles, release dates, genres, ratings, popularity, and vote counts. Through the lens of data analysis, we gain a newfound appreciation for the art and business of filmmaking. Whether you are a cinephile, a filmmaker, or an industry insider, our exploration of movie data offers a fresh perspective on the magic and mechanics behind the silver screen. It reaffirms that movies are not just a form of entertainment but a reflection of our shared stories, dreams, and aspirations.
 
 ![Movie Ratings](/movies.png)
+
+## Exploring Credit Card Approval Data
+
+In this data analysis endeavor I conducted both exploratory and predictive analyses to uncover valuable patterns and insights of the credit card approval data. At first glance, it seemed like an enigmatic puzzle, comprising various attributes such as age, income, credit score, employment status, and more. To make sense of this data, my first step was to conduct exploratory data analysis (EDA).
+
+During the EDA phase, I leveraged data visualization techniques to gain insights into the dataset's structure and uncover any notable trends. I created charts, bar graphs, and scatter plots to visualize the distribution of numerical variables.
+
+With a deeper understanding of the dataset in hand, I transitioned into the predictive analysis phase. My goal was to develop a robust predictive model that could determine credit card approval outcomes based on applicant attributes. I began by pre-processing the data, addressing missing values, encoding categorical variables, removing columns, and scaling numerical features. Then, I split the dataset into training and testing sets to evaluate the model's performance accurately.
+
+After experimenting with linear regression model as a machine learning algorithm the outcome was not what I expected. The predictive model did not achieve to predict credit card approval outcomes effectively. The correlation between the applicant attributes were not strong as investigated in the EDA stage.
+This credit card approval data analysis project exemplifies my passion for unraveling the hidden stories within data. It showcased my ability to navigate complex datasets, conduct thorough exploratory analysis, and develop predictive models with real-world applications. I am excited to bring these skills and experiences to new challenges, contributing to data-driven decision-making in any domain.
+
+![Credit Card Approvals](/Credit Card.png)
