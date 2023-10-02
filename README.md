@@ -39,7 +39,7 @@ Our exploration begins with the vastness of the film industry. With thousands of
 
 ![Movie Ratings](/movies.png)
 
-## Exploring Credit Card Approval Data
+## [Exploring Credit Card Approval Data](https://github.com/afc523/Portfolio/blob/main/Credit_Card_Approvals.ipynb)
 
 In this data analysis endeavor I conducted both exploratory and predictive analyses to uncover valuable patterns and insights of the credit card approval data. At first glance, it seemed like an enigmatic puzzle, comprising various attributes such as age, income, credit score, employment status, and more. To make sense of this data, my first step was to conduct exploratory data analysis (EDA).
 
@@ -50,4 +50,4 @@ With a deeper understanding of the dataset in hand, I transitioned into the pred
 After experimenting with linear regression model as a machine learning algorithm the outcome was not what I expected. The predictive model did not achieve to predict credit card approval outcomes effectively. The correlation between the applicant attributes were not strong as investigated in the EDA stage.
 This credit card approval data analysis project exemplifies my passion for unraveling the hidden stories within data. It showcased my ability to navigate complex datasets, conduct thorough exploratory analysis, and develop predictive models with real-world applications. I am excited to bring these skills and experiences to new challenges, contributing to data-driven decision-making in any domain.
 
-![Credit Card Approvals](/Credit Card.png)
+![Credit Card Approvals](/CreditCard.png)
